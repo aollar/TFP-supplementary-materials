@@ -1,0 +1,184 @@
+{
+  "n_domains_headline": 11,
+  "n_domains_total": 11,
+  "n_total_windows": 8097,
+  "excluded_from_headline": [],
+  "geometric_mean_ratios": {
+    "tfp_vs_theta": {
+      "mae": 0.4526813754396678,
+      "smape": 0.47804113876274523,
+      "wis": 0.6383876008826774
+    },
+    "tfp_vs_naive2": {
+      "mae": 0.7189677718794192,
+      "smape": 0.7884130296233085,
+      "wis": 0.8572364686386197
+    }
+  },
+  "win_tie_loss": {
+    "tfp_vs_theta": {
+      "smape": {
+        "wins": 11,
+        "ties": 0,
+        "losses": 0
+      },
+      "wis": {
+        "wins": 8,
+        "ties": 1,
+        "losses": 2
+      }
+    },
+    "tfp_vs_naive2": {
+      "smape": {
+        "wins": 7,
+        "ties": 2,
+        "losses": 2
+      },
+      "wis": {
+        "wins": 6,
+        "ties": 4,
+        "losses": 1
+      }
+    }
+  },
+  "coverage_by_domain": {
+    "Flu US": {
+      "tfp": 100.0,
+      "theta": 97.50277469478357,
+      "naive2": 99.66703662597114
+    },
+    "Covid Hosp": {
+      "tfp": 99.41176470588235,
+      "theta": 96.11764705882354,
+      "naive2": 73.99999999999999
+    },
+    "Bass Tech": {
+      "tfp": 100.0,
+      "theta": 98.37662337662337,
+      "naive2": 98.05194805194806
+    },
+    "NYISO Load": {
+      "tfp": 83.42245989304814,
+      "theta": 67.37967914438504,
+      "naive2": 86.63101604278076
+    },
+    "M4 Weekly": {
+      "tfp": 98.6962962962963,
+      "theta": 60.88888888888889,
+      "naive2": 83.34814814814816
+    },
+    "M4 Daily": {
+      "tfp": 98.38775510204081,
+      "theta": 65.08163265306122,
+      "naive2": 96.83673469387755
+    },
+    "M4 Monthly": {
+      "tfp": 97.57777777777777,
+      "theta": 90.64444444444443,
+      "naive2": 96.97777777777777
+    },
+    "Kaggle Store": {
+      "tfp": 97.75510204081631,
+      "theta": 93.24489795918367,
+      "naive2": 98.61224489795919
+    },
+    "M5 Retail": {
+      "tfp": 77.14285714285714,
+      "theta": 82.20408163265306,
+      "naive2": 78.51020408163265
+    },
+    "Wikipedia": {
+      "tfp": 84.87755102040815,
+      "theta": 77.34693877551021,
+      "naive2": 84.44897959183672
+    },
+    "Finance": {
+      "tfp": 99.71428571428571,
+      "theta": 39.785714285714285,
+      "naive2": 99.07142857142857
+    }
+  },
+  "skipped_series_count": {},
+  "seed_robustness": {
+    "m4_daily": {
+      "42": {
+        "smape_ratio": 0.16899511600344197,
+        "wis_ratio": 0.29504063599714725,
+        "n_series": 100
+      },
+      "99": {
+        "smape_ratio": 0.21880756419334488,
+        "wis_ratio": 0.3389401505137092,
+        "n_series": 100
+      }
+    },
+    "wikipedia": {
+      "42": {
+        "smape_ratio": 0.7171601425661649,
+        "wis_ratio": 1.019745257757932,
+        "n_series": 100
+      },
+      "99": {
+        "smape_ratio": 0.6945275303419468,
+        "wis_ratio": 1.069444063396122,
+        "n_series": 98
+      }
+    }
+  },
+  "statistical_significance": {
+    "binomial_sign_test": {
+      "wins": 11,
+      "n": 11,
+      "null_p": 0.5,
+      "p_value": 0.000488,
+      "alternative": "greater"
+    },
+    "wilcoxon_per_domain": {
+      "bass": {
+        "p_value": 1.82e-15,
+        "significant": true
+      },
+      "covid": {
+        "p_value": 2.19e-10,
+        "significant": true
+      },
+      "finance": {
+        "p_value": 2.31e-58,
+        "significant": true
+      },
+      "flu": {
+        "p_value": 3.01e-37,
+        "significant": true
+      },
+      "kaggle_store": {
+        "p_value": 7e-09,
+        "significant": true
+      },
+      "m4_daily": {
+        "p_value": 3.97e-146,
+        "significant": true
+      },
+      "m4_monthly": {
+        "p_value": 1.2e-69,
+        "significant": true
+      },
+      "m4_weekly": {
+        "p_value": 2.91e-156,
+        "significant": true
+      },
+      "m5": {
+        "p_value": 4.13e-28,
+        "significant": true
+      },
+      "nyiso": {
+        "p_value": 1.06e-11,
+        "significant": true
+      },
+      "wikipedia": {
+        "p_value": 7.99e-31,
+        "significant": true
+      }
+    },
+    "all_domains_significant_at_alpha_0.05": true
+  }
+}

@@ -1,0 +1,4414 @@
+{
+  "hydrology": [
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -248185 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -248185 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -248185 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -248185 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -248185 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -248185 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -248185 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -248192 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -248192 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -248192 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -248192 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -248192 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -248192 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -248192 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -248199 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -248199 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -248199 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -248199 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -248199 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -248199 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -248199 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -248206 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -248206 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -248206 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -248206 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -248206 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -248206 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -248206 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -248213 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -248213 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -248213 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -248213 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -248213 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -248213 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -248220 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -248220 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -248220 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -248220 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -248220 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -248227 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -248227 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -248227 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -248227 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -248234 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -248234 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -248234 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -248241 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -248241 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -248248 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -182854 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -182854 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -182854 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -182854 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -182854 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -182854 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -182854 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -182861 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -182861 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -182861 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -182861 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -182861 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -182861 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -182861 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -182868 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -182868 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -182868 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -182868 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -182868 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -182868 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -182868 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -182875 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -182875 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -182875 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -182875 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -182875 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -182875 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -182875 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -182882 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -182882 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -182882 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -182882 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -182882 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -182882 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -182889 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -182889 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -182889 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -182889 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -182889 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -182896 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -182896 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -182896 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -182896 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -182903 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -182903 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -182903 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -182910 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -182910 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -182917 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -243026 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -243026 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -243026 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -243026 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -243026 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -243026 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -243026 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -243033 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -243033 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -243033 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -243033 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -243033 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -243033 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -243033 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -243040 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -243040 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -243040 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -243040 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -243040 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -243040 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -243040 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -243047 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -243047 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -243047 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -243047 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -243047 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -243047 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -243047 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -243054 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -243054 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -243054 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -243054 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -243054 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -243054 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -243061 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -243061 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -243061 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -243061 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -243061 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -243068 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -243068 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -243068 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -243068 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -243075 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -243075 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -243075 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -243082 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -243082 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1011000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -243089 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -204743 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -204743 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -204743 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -204743 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -204743 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -204743 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -204743 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -204750 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -204750 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -204750 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -204750 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -204750 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -204750 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -204750 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -204757 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -204757 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -204757 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -204757 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -204757 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -204757 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -204757 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -204764 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -204764 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -204764 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -204764 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -204764 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -204764 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -204764 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -204771 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -204771 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -204771 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -204771 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -204771 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -204771 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -204778 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -204778 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -204778 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -204778 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -204778 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -204785 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -204785 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -204785 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -204785 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -204792 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -204792 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -204792 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -204799 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -204799 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -204806 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -163170 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -163170 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -163170 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -163170 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -163170 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -163170 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -163170 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -163177 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -163177 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -163177 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -163177 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -163177 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -163177 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -163177 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -163184 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -163184 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -163184 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -163184 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -163184 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -163184 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -163184 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -163191 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -163191 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -163191 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -163191 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -163191 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -163191 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -163191 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -163198 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -163198 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -163198 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -163198 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -163198 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -163198 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -163205 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -163205 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -163205 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -163205 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -163205 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -163212 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -163212 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -163212 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -163212 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -163219 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -163219 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -163219 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -163226 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -163226 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1020000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -163233 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -174230 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -174230 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -174230 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -174230 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -174230 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -174230 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -174230 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -174237 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -174237 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -174237 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -174237 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -174237 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -174237 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -174237 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -174244 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -174244 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -174244 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -174244 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -174244 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -174244 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -174244 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -174251 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -174251 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -174251 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -174251 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -174251 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -174251 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -174251 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -174258 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -174258 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -174258 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -174258 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -174258 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -174258 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -174265 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -174265 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -174265 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -174265 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -174265 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -174272 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -174272 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -174272 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -174272 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -174279 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -174279 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -174279 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -174286 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -174286 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1015800",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -174293 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -243572 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -243572 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -243572 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -243572 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -243572 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -243572 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -243572 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -243579 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -243579 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -243579 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -243579 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -243579 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -243579 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -243579 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -243586 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -243586 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -243586 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -243586 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -243586 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -243586 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -243586 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -243593 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -243593 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -243593 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -243593 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -243593 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -243593 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -243593 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -243600 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -243600 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -243600 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -243600 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -243600 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -243600 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -243607 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -243607 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -243607 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -243607 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -243607 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -243614 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -243614 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -243614 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -243614 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -243621 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -243621 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -243621 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -243628 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -243628 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1017000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -243635 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -248206 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -248206 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -248206 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -248206 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -248206 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -248206 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -248206 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -248213 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -248213 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -248213 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -248213 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -248213 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -248213 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -248213 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -248220 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -248220 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -248220 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -248220 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -248220 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -248220 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -248220 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -248227 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -248227 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -248227 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -248227 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -248227 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -248227 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -248227 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -248234 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -248234 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -248234 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -248234 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -248234 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -248234 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -248241 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -248241 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -248241 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -248241 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -248241 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -248248 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -248248 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -248248 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -248248 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -248255 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -248255 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -248255 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -248262 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -248262 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1019000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -248269 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -191884 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -191884 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -191884 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -191884 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -191884 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -191884 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -191884 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -191891 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -191891 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -191891 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -191891 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -191891 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -191891 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -191891 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -191898 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -191898 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -191898 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -191898 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -191898 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -191898 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -191898 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -191905 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -191905 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -191905 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -191905 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -191905 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -191905 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -191905 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -191912 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -191912 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -191912 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -191912 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -191912 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -191912 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -191919 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -191919 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -191919 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -191919 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -191919 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -191926 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -191926 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -191926 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -191926 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -191933 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -191933 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -191933 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -191940 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -191940 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -191947 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -138894 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -138894 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -138894 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -138894 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -138894 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -138894 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -138894 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -138901 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -138901 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -138901 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -138901 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -138901 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -138901 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -138901 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -138908 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -138908 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -138908 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -138908 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -138908 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -138908 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -138908 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -138915 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -138915 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -138915 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -138915 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -138915 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -138915 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -138915 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -138922 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -138922 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -138922 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -138922 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -138922 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -138922 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -138929 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -138929 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -138929 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -138929 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -138929 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -138936 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -138936 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -138936 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -138936 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -138943 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -138943 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -138943 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -138950 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -138950 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021200",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -138957 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -253456 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -253456 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -253456 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -253456 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -253456 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -253456 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -253456 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -253463 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -253463 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -253463 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -253463 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -253463 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -253463 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -253463 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -253470 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -253470 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -253470 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -253470 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -253470 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -253470 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -253470 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -253477 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -253477 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -253477 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -253477 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -253477 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -253477 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -253477 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -253484 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -253484 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -253484 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -253484 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -253484 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -253484 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -253491 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -253491 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -253491 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -253491 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -253491 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -253498 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -253498 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -253498 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -253498 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -253505 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -253505 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -253505 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -253512 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -253512 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1014000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -253519 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -107625 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -107625 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -107625 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -107625 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -107625 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -107625 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -107625 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -107632 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -107632 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -107632 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -107632 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -107632 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -107632 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -107632 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -107639 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -107639 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -107639 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -107639 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -107639 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -107639 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -107639 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -107646 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -107646 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -107646 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -107646 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -107646 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -107646 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -107646 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -107653 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -107653 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -107653 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -107653 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -107653 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -107653 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -107660 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -107660 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -107660 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -107660 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -107660 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -107667 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -107667 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -107667 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -107667 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -107674 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -107674 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -107674 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -107681 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -107681 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1010070",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -107688 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -260582 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -260582 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -260582 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -260582 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -260582 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -260582 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -260582 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -260589 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -260589 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -260589 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -260589 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -260589 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -260589 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -260589 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -260596 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -260596 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -260596 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -260596 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -260596 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -260596 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -260596 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -260603 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -260603 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -260603 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -260603 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -260603 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -260603 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -260603 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -260610 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -260610 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -260610 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -260610 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -260610 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -260610 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -260617 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -260617 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -260617 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -260617 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -260617 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -260624 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -260624 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -260624 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -260624 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -260631 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -260631 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -260631 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -260638 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -260638 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1013500",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -260645 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -137711 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -137711 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -137711 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -137711 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -137711 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -137711 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -137711 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -137718 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -137718 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -137718 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -137718 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -137718 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -137718 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -137718 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -137725 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -137725 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -137725 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -137725 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -137725 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -137725 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -137725 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -137732 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -137732 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -137732 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -137732 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -137732 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -137732 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -137732 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -137739 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -137739 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -137739 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -137739 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -137739 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -137739 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -137746 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -137746 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -137746 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -137746 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -137746 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -137753 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -137753 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -137753 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -137753 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -137760 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -137760 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -137760 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -137767 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -137767 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1018000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -137774 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -169085 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -169085 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -169085 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -169085 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -169085 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -169085 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -169085 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -169092 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -169092 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -169092 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -169092 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -169092 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -169092 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -169092 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -169099 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -169099 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -169099 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -169099 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -169099 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -169099 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -169099 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -169106 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -169106 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -169106 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -169106 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -169106 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -169106 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 7,
+      "error": "Cannot cast -169106 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -169113 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -169113 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -169113 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -169113 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -169113 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 6,
+      "error": "Cannot cast -169113 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -169120 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -169120 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -169120 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -169120 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 5,
+      "error": "Cannot cast -169120 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -169127 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -169127 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -169127 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 4,
+      "error": "Cannot cast -169127 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -169134 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -169134 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 3,
+      "error": "Cannot cast -169134 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -169141 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 2,
+      "error": "Cannot cast -169141 days +00:00:00 to unit='ns' without overflow."
+    },
+    {
+      "series": "1021000",
+      "model": "tfp",
+      "horizon": 1,
+      "error": "Cannot cast -169148 days +00:00:00 to unit='ns' without overflow."
+    }
+  ]
+}

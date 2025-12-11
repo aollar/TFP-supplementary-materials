@@ -1,0 +1,61 @@
+
+METHODS AND LIMITATIONS
+=======================
+
+Evaluation Design:
+- We evaluated TFP v2.2 Generalist against Strong SimpleTheta and Naive2 (seasonal naive)
+  across 11 domains using rolling-origin cross-validation with 10 forecast origins per series.
+- Point forecasts were evaluated using MAE and sMAPE; probabilistic forecasts using WIS and 90% coverage.
+- Horizons vary by domain following customary practice for each dataset (4-7 steps ahead).
+
+Baselines and scope:
+As baselines we use the classical Theta method and the seasonal Naive2 benchmark, both widely studied in the post-M3 and M4 literature. The "Strong SimpleTheta" implementation follows the original Theta formulation with a fixed 0.5/0.5 blend of linear-trend and SES-with-drift components, plus an STL-like seasonal decomposition for series with sufficient history. These baselines are representative of strong classical statistical methods, but they do not include the neural hybrid models (for example ES-RNN) that won the M4 competition. All comparisons in this paper should therefore be interpreted as "TFP versus standard statistical baselines", not versus the current neural state of the art.
+
+Interval law and WIS:
+All models share the same interval generator, IntervalLaw v2, which was originally calibrated for TFP. This design isolates differences in point forecast quality, since the interval construction is held fixed across methods. As a consequence, Weighted Interval Score (WIS) comparisons cannot be interpreted as a fully general probabilistic evaluation of each model's own uncertainty quantification. In this study we treat WIS as a secondary metric that reflects how well the shared interval mechanism tracks each model's point forecast errors. Our primary claims are based on point metrics (sMAPE and MAE).
+
+Coverage behavior:
+Interval coverage varies systematically across domains. TFP tends to over-cover in several settings (for example 99–100 percent coverage where the nominal target is 90 percent), whereas Theta often under-covers. Since WIS penalizes under-coverage more heavily than over-coverage, this asymmetry may advantage TFP on WIS in some domains. We report full coverage tables so that readers can see these patterns, and we emphasize point metrics when making comparative claims.
+
+M4-Style MASE and OWA (for 3 M4 Competition domains):
+- MASE is computed per series as: MASE = MAE_test / MAE_insample_seasonal_naive
+- The in-sample seasonal naive MAE is computed once per series on the initial training portion
+  (before any test windows) and reused for all rolling origins of that series.
+- MASE values are then averaged across series (not windows) to get the domain-level MASE.
+- OWA = (sMAPE_ratio + MASE_ratio) / 2, where ratios are computed relative to Naive2.
+
+Domain selection and exclusions:
+The cross-domain benchmark comprises 11 "headline" domains spanning epidemiology (US influenza hospitalizations, COVID hospitalizations), technology adoption (Bass diffusion), electricity load (NYISO), retail demand (M5, Kaggle Store), web traffic (Wikipedia), financial time series, and the M4 weekly, daily, and monthly competition datasets. Two additional domains (Hydrology and Bike Share) were analyzed but excluded from global aggregates: Hydrology experienced frequent evaluation failures due to pre-1970 dates in the raw files, and Bike Share contained only a single series with 10 windows, which we judged too small for reliable domain-level statistics. Excluding these domains is conservative and is documented in the Methods.
+
+Horizon heterogeneity:
+Forecast horizons vary by domain, reflecting standard practice in the respective literatures: for example 4 horizons for NYISO and COVID, 5 for Finance, 6 for M5, and 7 for Wikipedia and the M4 datasets. We aggregate results across domains using geometric means of domain-level ratios rather than pooling all windows together. This preserves within-domain comparability but also means that some domains may be "easier" at their chosen horizons. We report per-domain metrics and treat the global geometric means as a summary rather than a single definitive ranking.
+
+Cross-Domain Aggregation:
+- Global effect sizes are summarized using geometric means of per-domain ratios,
+  treating each domain equally regardless of the number of series or windows.
+- Global statistics are computed over all 11 domains.
+- Per-domain bootstrap 95% CIs are computed by resampling forecast windows within each domain.
+
+Retail and NYISO exceptions:
+TFP does not uniformly dominate all baselines. In three retail or count-valued domains (NYISO load, M5 retail, Kaggle Store) TFP underperforms Naive2 on sMAPE by 1–26 percent while still substantially beating Theta. These failures are reported explicitly in the results and tables. They highlight settings in which simple seasonal Naive baselines remain surprisingly strong and where the current TFP configuration may require further adaptation.
+
+Hydrology date issues:
+The Hydrology domain presented unusual technical difficulties. Approximately 35 percent of series contained pre-1970 timestamps that triggered datetime overflows in the Python stack used for TFP, whereas Theta and Naive2 did not rely on datetime internally. Because these failures were specific to TFP and resulted in a biased subset of "easier" series, we excluded Hydrology entirely from global MASE and OWA summaries and label its domain-level metrics as illustrative only.
+
+Exception Handling:
+- All forecast failures are logged with domain, series, and error context.
+- Total skipped evaluations: 0 (across all domains and models).
+- No series were skipped.
+
+Reproducibility:
+All experiments use a rolling-origin cross-validation scheme with 10 origins per series and fixed random seeds. The main synthesis analysis uses seed 42, and a robustness check on two challenging domains (M4 Daily and Wikipedia) compares seeds 42 and 99, showing stable relative performance. We provide all configuration files, evaluation scripts, and a master CSV of domain-level results to facilitate replication.
+
+Limitations:
+- Horizons vary across domains (4-7 steps ahead), which may affect cross-domain comparisons.
+- Strong SimpleTheta uses a fixed 0.5/0.5 combination of Theta-0 and Theta-2, which may not
+  represent state-of-the-art Theta variants (e.g., the M4 winner used neural network hybrids).
+- Sample sizes vary considerably across domains (14 series for Bass Tech, 150 for M4 Weekly).
+
+Statistical Significance:
+- Binomial sign test (11/11 wins vs Theta on sMAPE): p = 0.000488
+- Per-domain paired Wilcoxon signed-rank tests: All 11 domains significant at p < 0.05
