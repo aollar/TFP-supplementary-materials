@@ -1,0 +1,57 @@
+{
+  "evaluation_type": "internal_validation_split",
+  "note": "This is a retrospective split, not a true prospective holdout. Data was seen during development but analysis used frozen pipeline.",
+  "config": {
+    "description": "Frozen pipeline configuration for holdout evaluation",
+    "created": "2025-12-23",
+    "pipeline_spec": {
+      "min_citers": 30,
+      "metric": "snapshot_takeover",
+      "primary_test": "mann_whitney_u",
+      "effect_size": "cliffs_delta",
+      "alternative": "greater",
+      "confidence_level": 0.95
+    },
+    "split_spec": {
+      "method": "stratified_random",
+      "dev_fraction": 0.75,
+      "holdout_fraction": 0.25,
+      "stratify_by": "relation_type",
+      "random_seed": 42
+    },
+    "acceptance_criteria": {
+      "cliffs_delta_min": 0.5,
+      "p_value_max": 0.001,
+      "direction": "obsoletes_greater_than_updates"
+    },
+    "note": "This configuration was frozen BEFORE examining holdout data. No tuning after split."
+  },
+  "dev_results": {
+    "n_total": 1028,
+    "n_updates": 644,
+    "n_obsoletes": 384,
+    "median_updates": 0.0891,
+    "median_obsoletes": 0.7778,
+    "cliffs_delta": 0.7891,
+    "p_value": "6.22e-100"
+  },
+  "holdout_results": {
+    "n_total": 343,
+    "n_updates": 215,
+    "n_obsoletes": 128,
+    "median_updates": 0.0702,
+    "median_obsoletes": 0.7654,
+    "ci_updates": [
+      0.06,
+      0.087
+    ],
+    "ci_obsoletes": [
+      0.7002,
+      0.8024
+    ],
+    "cliffs_delta": 0.8171,
+    "p_value": "5.03e-37"
+  },
+  "acceptance_criteria_met": true,
+  "generated_at": "2025-12-23T02:43:37.256181"
+}

@@ -1,0 +1,10 @@
+{
+  "real_delta": 0.7958722897264261,
+  "matched_null_mean": 0.15635483922470222,
+  "matched_null_std": 0.02631845758358959,
+  "matched_null_ci_lower": 0.10553681478339012,
+  "matched_null_ci_upper": 0.2096223981497954,
+  "p_value": 0.0,
+  "n_permutations": 1000,
+  "verdict": "MARGINAL"
+}

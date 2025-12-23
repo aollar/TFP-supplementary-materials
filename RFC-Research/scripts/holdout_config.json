@@ -1,0 +1,25 @@
+{
+  "description": "Frozen pipeline configuration for holdout evaluation",
+  "created": "2025-12-23",
+  "pipeline_spec": {
+    "min_citers": 30,
+    "metric": "snapshot_takeover",
+    "primary_test": "mann_whitney_u",
+    "effect_size": "cliffs_delta",
+    "alternative": "greater",
+    "confidence_level": 0.95
+  },
+  "split_spec": {
+    "method": "stratified_random",
+    "dev_fraction": 0.75,
+    "holdout_fraction": 0.25,
+    "stratify_by": "relation_type",
+    "random_seed": 42
+  },
+  "acceptance_criteria": {
+    "cliffs_delta_min": 0.5,
+    "p_value_max": 0.001,
+    "direction": "obsoletes_greater_than_updates"
+  },
+  "note": "This configuration was frozen BEFORE examining holdout data. No tuning after split."
+}

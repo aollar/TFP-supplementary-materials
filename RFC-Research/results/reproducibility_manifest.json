@@ -1,0 +1,17 @@
+{
+  "generated_at": "2025-12-23T05:28:44.635458",
+  "sanity_checks": "PASSED",
+  "computed_statistics": {
+    "n_updates": 859,
+    "n_obsoletes": 512,
+    "median_updates": 0.0828,
+    "median_obsoletes": 0.773,
+    "cliffs_delta": 0.7959,
+    "p_value": "8.57e-135"
+  },
+  "file_hashes": {
+    "rfc_snapshot_results.json": "90eff2c6917e93419f5225fa01fa4a737b2d7404520948d90416696f1fc9e070",
+    "edges_with_takeover.csv": "6d3fab5059a030ed7c353de5d8b4cf011a289e3ad9a33c862ce595fcfd8aabb2",
+    "figure1_takeover_distribution.png": "28507b61731adeda8f016fdf39113e88eac2c30349d749b78f79365519bab510"
+  }
+}
