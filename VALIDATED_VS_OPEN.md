@@ -17,7 +17,7 @@ This table tracks the empirical status of every testable TFP claim.
 | Q1 internal orientation | Not yet validated | -- | -- | Needs process-tracing or introspective data |
 | Q4A deployment continuation | Not yet validated | -- | -- | Needs multi-stage tracking within successful deployment |
 | B_in operator independent validation | Partial | -- | 3/4 operators tested | Direct B_in measurement instrument |
-| EIL interlocking loop dynamics | Not yet validated | -- | Theoretical | Hard to measure; needs novel experimental design |
+| EIL integration loop dynamics | Not yet validated | -- | Theoretical | Hard to measure; needs novel experimental design |
 | Non-institutional domain generalization | Open | -- | Tested OpenReview (failed) | Biological or ecological domain |
 | Full 4-operator 4-quadrant grammar | Partial | -- | Q2-Q4 with 3 operators | Q1 measurement + B_in validation |
 

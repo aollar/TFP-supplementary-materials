@@ -23,7 +23,7 @@ See [VALIDATED_VS_OPEN.md](VALIDATED_VS_OPEN.md) for a complete table. The short
 
 **Validated:** Q2-Q3 structural opposition, unidirectional Q2-to-Q3 flow, viability-gated Q4B reseeding, non-interchangeable stage functions, permutation uniqueness, HMM independent convergence, wrong-mapping collapse.
 
-**Not yet validated:** Q1 internal orientation (needs process-tracing), Q4A deployment continuation (needs multi-stage tracking), B_in operator (partially tested), EIL interlocking loop dynamics, non-institutional domain generalization.
+**Not yet validated:** Q1 internal orientation (needs process-tracing), Q4A deployment continuation (needs multi-stage tracking), B_in operator (partially tested), EIL integration loop dynamics, non-institutional domain generalization.
 
 ## Where to Go Next
 
