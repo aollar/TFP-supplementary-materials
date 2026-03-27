@@ -1,27 +1,57 @@
-# TFP Supplementary Materials
+# The First Pattern (TFP) — Supplementary Materials
 
-This repository contains supplementary educational materials related to **The First Pattern (TFP)**. These resources provide additional conceptual illustrations, background explanations, and example cycles that complement the scientific manuscripts associated with TFP.
+## Overview
 
-These materials are intended for readers who want a broader conceptual understanding of the Information Emergence Cycle, the Energy Integration Loop, and the high level patterns that appear across biology, computation, behavior, and cosmology. None of the content in this repository affects the empirical results, statistical evaluations, or scientific claims made in the research papers.
+The First Pattern (TFP) is a proposed lifecycle grammar for adaptive systems. This repository contains supplementary materials, benchmark tools, and the handoff package for outside researchers.
 
-## Contents
+## Research Papers
 
-The repository includes:
+| Paper | Title | Status | DOI |
+|-------|-------|--------|-----|
+| **Paper 4** (Flagship) | Structured Reseeding After Failure | Preprint | [10.5281/zenodo.19157916](https://zenodo.org/records/19157916) |
+| **Paper 5** (Flagship) | Non-Interchangeable Stage Functions Across Staged Adaptive Systems | Preprint | TBD |
+| Paper A | Dual-Memory Dissociation Under Partial Observability | In review (ESWA) | [10.5281/zenodo.18929188](https://zenodo.org/records/18929188) |
+| Paper B | Dissociation Test for Causal Attribution Under Partial Observability | In review (J. Power Sources) | [10.5281/zenodo.18809446](https://zenodo.org/records/18809446) |
+| Paper C | Depletion-Gated Reorientation: A Minimal Mechanism for Efficient Spatial Foraging | Preprint | [10.5281/zenodo.18930571](https://zenodo.org/records/18930571) |
+| **Handoff Paper** | The First Pattern Research Program: A Portable Framework | Preprint | TBD |
 
-* Conceptual diagrams
-* Visual explanations of TFP cycles
-* Example analogies such as the sperm and egg cycle, compute cycle, evolution cycle, and others
-* Optional educational figures not included within the formal research papers
-* Additional background visuals that help orient new readers
+## Repository Structure
 
-These materials serve as an extended reference for anyone exploring the broader theoretical landscape surrounding TFP.
+```
+TFP-supplementary-materials/
+├── README.md                    # This file
+├── OSF_Preregistration.md       # Pre-registration for Paper 5
+├── papers/
+│   ├── TFP_Paper5_Flagship.docx # Paper 5 manuscript
+│   └── TFP_Handoff_Paper.docx   # Handoff paper for outside researchers
+├── figures/
+│   ├── iec_cycle.png            # IEC diagram
+│   ├── fig_killshot.png         # Permutation mapping search result
+│   ├── fig2_heatmap.png         # Cross-domain operator-stage heatmap
+│   ├── fig3_wrong_mapping.png   # Wrong-mapping collapse
+│   ├── fig4_lodo.png            # Leave-one-domain-out analysis
+│   └── fig5_ctgov_enrichment.png # CT.gov size-controlled enrichment
+└── benchmarks/                  # Benchmark tools (coming soon)
+```
 
-## Usage and Citation
+## Key Results
 
-These visuals and explanations are provided to support understanding of TFP.
-If referencing or adapting these materials, please cite the related TFP research papers associated with your use case.
+**Paper 4** demonstrated that post-failure reorientation is structured, not random: systems target specifically novel options and return to abandoned alternatives within a characteristic timeframe. This was shown across macroeconomic, avian, mammalian, and human decision-making domains.
 
-## Notes
+**Paper 5** demonstrated that lifecycle stages carry non-interchangeable functional signatures across four institutionally independent domains (IETF, USPTO, ClinicalTrials.gov, FR-EPA). Of six possible operator-stage assignments, only TFP's prediction recovers the observed structure, with a 92% gap over the next best alternative.
 
-* This repository is purely supplementary and does not contain code, experimental implementations, or any components of the forecasting systems used in the scientific studies.
-* Trademark or copyright marks may appear in certain visuals. These are part of the original educational materials and do not affect the scientific content of the associated research manuscripts.
+## How to Get Involved
+
+See the Handoff Paper (`papers/TFP_Handoff_Paper.docx`) for:
+- What TFP claims and what has been validated
+- How to test TFP on a new domain (step-by-step)
+- Benchmark tasks and rival models
+- Open problems and contribution paths
+
+## Author
+
+Austin Ollar — ORCID: [0009-0002-9998-9287](https://orcid.org/0009-0002-9998-9287)
+
+## License
+
+CC BY 4.0
