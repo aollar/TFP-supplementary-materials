@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use TFP in your research, please cite the flagship papers."
+type: software
+title: "The First Pattern (TFP) Research Program"
+authors:
+  - family-names: Ollar
+    given-names: Austin
+    orcid: "https://orcid.org/0009-0002-9998-9287"
+repository-code: "https://github.com/aollar/TFP-supplementary-materials"
+url: "https://austinollar.com/the-first-pattern/"
+license: CC-BY-4.0
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Ollar
+      given-names: Austin
+      orcid: "https://orcid.org/0009-0002-9998-9287"
+  title: "Structured Reseeding After Failure: Asymmetric Selection-Transformation Cycles in Macroeconomic, Biological, and Cognitive Systems"
+  year: 2026
+  doi: "10.5281/zenodo.19157916"
